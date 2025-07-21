@@ -29,9 +29,9 @@ export const siteConfig: SiteConfig = {
 		depth: 2, // Maximum heading depth to show in the table, from 1 to 3
 	},
 	favicon: [
- {
-  src: '/favicon/favicon.ico',    // Path of the favicon, relative to the /public directory   
- }
+		{
+			src: "/favicon/favicon.ico", // Path of the favicon, relative to the /public directory
+		},
 	],
 };
 
@@ -40,7 +40,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Home,
 		LinkPreset.Archive,
 		LinkPreset.About,
-				{
+		{
 			name: "はなみすきー",
 			url: "", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
@@ -60,21 +60,21 @@ export const profileConfig: ProfileConfig = {
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://misskey.flowers/@Tokuyama",
 		},
-				{
+		{
 			name: "Mastodon",
 			icon: "simple-icons:mastodon", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://ukadon.shillest.net/@Tokuyama_S11",
 		},
-						{
+		{
 			name: "niconico",
 			icon: "simple-icons:mastodon", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://ukadon.shillest.net/@Tokuyama_S11",
 		},
-								{
+		{
 			name: "discord",
 			icon: "simple-icons:discord", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
@@ -83,7 +83,6 @@ export const profileConfig: ProfileConfig = {
 		},
 	],
 };
-
 
 export const expressiveCodeConfig: ExpressiveCodeConfig = {
 	// Note: Some styles (such as background color) are being overridden, see the astro.config.mjs file.
