@@ -26,8 +26,8 @@ import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-cop
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://ametrec.github.io",
-	base: "/ametrec2.0",
+	site: "https://ame-trec.github.io",
+	base: "/ame-trec2.0",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({
