@@ -1,6 +1,5 @@
 import type {
 	ExpressiveCodeConfig,
-	LicenseConfig,
 	NavBarConfig,
 	ProfileConfig,
 	SiteConfig,
