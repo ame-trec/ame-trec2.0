@@ -1,9 +1,9 @@
 ---
 title: MTRリソースパック利用規約
-published: 2022-07-01
-tags: [MTR]
+published: 2025-07-22
+tags: [MTR, polisy]
 category: Examples
-draft: true
+draft:
 ---
 # 日本語
 ##  改造・編集について
