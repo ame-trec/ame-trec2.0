@@ -18,7 +18,7 @@ draft: false
 - 改造モデルの再配布時は、**原作者のクレジット表記を必ず残してください**。
 
 ##  他媒体への移植
-- MTR（Metro Train Realms）以外のプラットフォームやゲーム、ツールへの移植は、**事前にご相談ください**。
+- MTR（Minecraft transit railwey）以外のプラットフォームやゲーム、ツールへの移植は、**事前にご相談ください**。
 
 ##  禁止事項
 - 本モデルを使用した **自作発言（作者を偽る行為）** は禁止です。
@@ -41,7 +41,7 @@ draft: false
 - If you redistribute a modified version, **please retain the original creator’s credit information**.
 
 ##  Porting to Other Platforms
-- If you wish to port this model to platforms other than MTR (Metro Train Realms), such as other games or tools, **please contact the creator beforehand**.
+- If you wish to port this model to platforms other than MTR (Minecraft transit railwey), such as other games or tools, **please contact the creator beforehand**.
 
 ##  Prohibited Actions
 - **Claiming this model as your own (false authorship)** is strictly prohibited.
