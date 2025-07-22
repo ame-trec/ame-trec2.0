@@ -27,7 +27,7 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 // https://astro.build/config
 export default defineConfig({
 	site: "https://ame-trec.github.io",
-	base: "/ame-trec2.0",
+	base: "/ame-trec2.0/",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({
