@@ -69,10 +69,10 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "niconico",
-			icon: "simple-icons:mastodon", // Visit https://icones.js.org/ for icon codes
+			icon: "emojione-monotone:film-frames", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://ukadon.shillest.net/@Tokuyama_S11",
+			url: "https://www.nicovideo.jp/user/129423036",
 		},
 		{
 			name: "discord",
