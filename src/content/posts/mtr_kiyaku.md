@@ -1,7 +1,7 @@
 ---
 title: MTRリソースパック利用規約
 published: 2022-07-01
-tags: [MTR]
+tags: [MTR,規約]
 category: Examples
 draft: true
 ---
