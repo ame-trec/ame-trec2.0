@@ -3,8 +3,7 @@
 title: MTRリソースパック利用規約
 published: 2025-07-21
 tags: [MTR,policy]
-layout: ../../layouts/Layout.astro
-category: Examples
+category: MTR
 draft: false
 
 ---
@@ -56,7 +55,6 @@ draft: false
 To prevent unauthorized redistribution, the resource pack available on this site requires a password:
 
 - For the **standard version**, the password must be entered at the time of download.
-
 
 Please note: **Do not share this password with others.**
 
