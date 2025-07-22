@@ -1,11 +1,14 @@
 ---
+
 title: MTRリソースパック利用規約
 published: 2025-07-21
 tags: [MTR,policy]
 layout: ../../layouts/Layout.astro
 category: Examples
-draft: true
+draft: false
+
 ---
+
 # 日本語
 
 ##  改造・編集について
