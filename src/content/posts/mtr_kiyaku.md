@@ -29,7 +29,7 @@ draft: false
 
 ## ファイルのパスワードについて
 当サイトで公開しておりますリソースパックは、無断転載防止の為、ダウンロードする際通常版はダウンロードするときに以下のパスワードを 入れないとダウンロード/解凍出来ないようになっています。なお、このパスワードを他人に教えてはなりません。
-通常版パスワード:新静岡セノバの住所を日本語で。書き方は「〇〇県〇〇市〇〇区〇〇丁目〇〇-〇〇」。ネットで調べてもOK。
+通常版パスワード:静岡駅の駅ビルの名前を半角英小文字6文字で
 
 #  English
 
@@ -58,4 +58,4 @@ To prevent unauthorized redistribution, the resource pack available on this site
 
 Please note: **Do not share this password with others.**
 
-**Password:** The address of *Shin-Shizuoka Cenova* written in **Japanese**.It is written as 「〇〇県(prefecture)〇〇市(city)〇〇区(Ward)〇〇丁目(Chome)〇〇-〇〇」.
+Standard password: Enter the name of the shopping mall attached to Shizuoka Station in 6 lowercase English letters.
