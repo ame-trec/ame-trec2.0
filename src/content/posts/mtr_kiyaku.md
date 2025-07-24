@@ -21,7 +21,7 @@ draft: false
 
 ##  禁止事項
 - 本モデルを使用した **自作発言（作者を偽る行為）** は禁止です。
-- **改造なしでの再配布** は、**当該サーバー内でのみ**可能です。
+- **改造なしでの再配布** は、**サーバー内でのみ**可能です。
 
 ##  SNS投稿について
 - 本モデルを用いた **スクリーンショット・動画・紹介等のSNS投稿は大歓迎** です！
@@ -29,7 +29,7 @@ draft: false
 
 ## ファイルのパスワードについて
 当サイトで公開しておりますリソースパックは、無断転載防止の為、ダウンロードする際通常版はダウンロードするときに以下のパスワードを 入れないとダウンロード/解凍出来ないようになっています。なお、このパスワードを他人に教えてはなりません。
-通常版パスワード:新静岡セノバの住所を日本語で。書き方は「〇〇県〇〇市〇〇区〇〇丁目〇〇-〇〇」。
+通常版パスワード:新静岡セノバの住所を日本語で。書き方は「〇〇県〇〇市〇〇区〇〇丁目〇〇-〇〇」。ネットで調べてもOK。
 
 #  English
 
@@ -44,7 +44,7 @@ draft: false
 
 ##  Prohibited Actions
 - **Claiming this model as your own (false authorship)** is strictly prohibited.
-- **Redistribution without modification** is allowed **only within the same server** where the original was shared.
+- **Redistribution without modification** is allowed **only within server** where the original was shared.
 
 ##  SNS Posting
 - **Sharing screenshots, videos, or showcasing this model on social media is highly encouraged!**
