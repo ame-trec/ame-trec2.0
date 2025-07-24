@@ -58,4 +58,4 @@ To prevent unauthorized redistribution, the resource pack available on this site
 
 Please note: **Do not share this password with others.**
 
-**Password:** The address of *Shin-Shizuoka Cenova* written in **Japanese**.It is written as 「〇〇県〇〇市〇〇区〇〇丁目〇〇-〇〇」.
+**Password:** The address of *Shin-Shizuoka Cenova* written in **Japanese**.It is written as 「〇〇県(prefecture)〇〇市(city)〇〇区(Ward)〇〇丁目(Chome)〇〇-〇〇」.
