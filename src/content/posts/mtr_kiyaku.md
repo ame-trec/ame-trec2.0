@@ -59,3 +59,6 @@ To prevent unauthorized redistribution, the resource pack available on this site
 Please note: **Do not share this password with others.**
 
 Standard password: Enter the name of the shopping mall attached to Shizuoka Station in 6 lowercase English letters.(Not Asti)
+
+
+その他ご不明な点、こういうことをしたいよーってことがあったらご気軽にDiscord、またはMisskeyまでご連絡をください！
