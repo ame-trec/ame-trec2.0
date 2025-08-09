@@ -2,7 +2,7 @@
 
 title: おえかきするのを口実にペンタブを買った
 published: 2025-08-09
-image: zakki3.png
+image: zakki3.jpg
 tags: [blog]
 category: blog
 draft: false
