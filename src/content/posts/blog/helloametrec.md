@@ -28,4 +28,3 @@ fuwariのデモページ。かわいい。
 
 どんな内容なんだろう…    
 
-[web拍手](https://docs.google.com/forms/d/e/1FAIpQLSfccAaElbIItkoQb8fmS9czLIYNEeN-Lo4E8teYVMFc0pft5w/viewform?usp=header)

@@ -21,4 +21,3 @@ draft: false
 半分失踪気味です。これはひどい。  
 なんとかして動画の作り方を思い出さないとまずいので、いい加減作ろうと思います。対戦よろしくお願いします。  
 （でもそういってまた作らない気もするんだよなぁ…）  
-[web拍手](https://docs.google.com/forms/d/e/1FAIpQLSfccAaElbIItkoQb8fmS9czLIYNEeN-Lo4E8teYVMFc0pft5w/viewform?usp=header)
