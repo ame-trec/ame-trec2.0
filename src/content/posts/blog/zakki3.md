@@ -18,4 +18,6 @@ PCでもおえかきがしたい・・・けどマウスじゃ結構キツイ・
 先日Linuxで遊ぼうと思い、早速実機にZorin osをインストール。普段遣いなら問題なさそうだなーと思いつつ、simutrans(OTRP)を導入しようとしたところ、
 なぜか起動ができませんでした。  日本語wikiを参考に導入したところ何事も無くすんなり起動できました。先人の知恵って偉大・・・
   （ちゃんと調べようね。）  
+  
+  
   [web拍手](https://docs.google.com/forms/d/e/1FAIpQLSfccAaElbIItkoQb8fmS9czLIYNEeN-Lo4E8teYVMFc0pft5w/viewform?usp=header)
