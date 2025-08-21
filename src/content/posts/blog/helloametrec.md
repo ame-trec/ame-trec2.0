@@ -26,4 +26,6 @@ fuwariのデモページ。かわいい。
 内容としてはコミュニティラジオみたいな感じ。特に韓国のものは生活感がたっぷりで面白いです。  
 また、北朝鮮の国際放送も日本で受信できるらしいですが、怖くて聞けません。    
 
-どんな内容なんだろう…  
+どんな内容なんだろう…    
+
+[web拍手](https://docs.google.com/forms/d/e/1FAIpQLSfccAaElbIItkoQb8fmS9czLIYNEeN-Lo4E8teYVMFc0pft5w/viewform?usp=header)
