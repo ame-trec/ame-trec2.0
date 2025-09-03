@@ -29,7 +29,7 @@ draft: false
 
 ## ファイルのパスワードについて
 当サイトで公開しておりますリソースパックは、無断転載防止の為、ダウンロードする際通常版はダウンロードするときに以下のパスワードを 入れないとダウンロード/解凍出来ないようになっています。なお、このパスワードを他人に教えてはなりません。
-通常版パスワード:静岡駅の駅ビルの名前を半角英小文字6文字で(アスティじゃないほう)
+通常版パスワード:parche
 
 #  English
 
@@ -58,7 +58,7 @@ To prevent unauthorized redistribution, the resource pack available on this site
 
 Please note: **Do not share this password with others.**
 
-Standard password: Enter the name of the shopping mall attached to Shizuoka Station in 6 lowercase English letters.(Not Asti)
+Standard password: parche
 
 
 その他ご不明な点、こういうことをしたいよーってことがあったらご気軽にDiscord、またはMisskeyまでご連絡をください！
