@@ -1,0 +1,14 @@
+---
+const {
+	src = "/images/banner.png",
+	alt = "サイトバナー",
+	href = "https://sites.google.com/view/happy-busy/",
+} = Astro.props;
+---
+
+<div class="w-full flex justify-center">
+  <a href={href} target="_blank" rel="noopener noreferrer">
+    <img src={src} alt={alt} class="w-[200px] h-[40px] object-contain" />
+  </a>
+</div>
+
